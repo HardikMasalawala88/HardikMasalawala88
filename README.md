@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikmasalawala&show_icons=true&locale=en" alt="hardikmasalawala" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hardikmasalawala88&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" alt="hardikmasalawala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hardikmasalawala88&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="hardikmasalawala" /></p>
