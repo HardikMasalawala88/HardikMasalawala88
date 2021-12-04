@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hardikmasalawala](https://medium.com/@hardikmasalawala)
 
-- 💬 Ask me about **Dotnet Core/ Dotnet/ Angular**
+- 💬 Ask me about **Dotnet Core/ Dotnet/ Blazor/ Angular/ Bootstrap**
 
 - 📫 How to reach me **Hardikmasalawala88@gmail.com**
 
