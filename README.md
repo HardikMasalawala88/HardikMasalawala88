@@ -111,11 +111,10 @@ I'm a result-driven software developer from India with **8+ years of experience*
   </a>
 </p>
 
-📫 **Reach Me At:**  
-**📧 Email:** hardikmasalawala88@gmail.com  
+📫 **Reach Me At:** 
 **🌐 GitHub:** [HardikMasalawala88](https://github.com/HardikMasalawala88)  
 **☕ Support Me:**  
-<a href="https://www.buymeacoffee.com/hmasalawala">
+<a href="https://www.buymeacoffee.com/hmasalawala" target="blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee - hmasalawala" />
 </a>
 
